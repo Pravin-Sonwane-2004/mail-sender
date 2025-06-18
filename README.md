@@ -147,14 +147,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 <p align="center">
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-your_email@example.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  <a href="mailto:pravinson@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pravinson@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
   <a href="https://github.com/Pravin-Sonwane-2004/mail-sender">
     <img src="https://img.shields.io/badge/GitHub-Pravin--Sonwane--2004-blue?style=for-the-badge&logo=github" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.youtube.com/@codingwithpravin">
-    <img src="https://img.shields.io/badge/YouTube-CodingWithPravin-red?style=for-the-badge&logo=youtube" alt="YouTube Badge"/>
+  <a href="https://www.youtube.com/@ProgrammingWithPravin">
+    <img src="https://img.shields.io/badge/YouTube-ProgrammingWithPravin-red?style=for-the-badge&logo=youtube" alt="YouTube Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-PravinSonwane-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </p>
 
